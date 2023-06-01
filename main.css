@@ -1,7 +1,17 @@
-body{
+html{
     font-size: 22px;
 }
 
+body{
+
+    font-family: monospace;   
+    
+}
+
+
+button,input, text,select{
+    font: inherit;
+}
 h1,h2{
     color: blue;
 
